@@ -1,0 +1,9 @@
+{
+  "eventType": "TRANSACTION_CREATED",
+  "transactionId": "txn_001",
+  "walletId": "wallet_123",
+  "amount": 1000,
+  "currency": "USD",
+  "status": "PENDING"
+}
+

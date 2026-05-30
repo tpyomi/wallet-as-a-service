@@ -1,0 +1,5 @@
+{
+  "eventType": "RECONCILIATION_COMPLETED",
+  "jobId": "recon_001",
+  "status": "SUCCESS"
+}

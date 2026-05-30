@@ -1,0 +1,9 @@
+{
+  "eventType": "WALLET_CREATED",
+  "eventId": "evt_001",
+  "walletId": "wallet_123",
+  "userId": "user_123",
+  "currency": "USD",
+  "timestamp": "2026-05-29T10:00:00Z"
+}
+

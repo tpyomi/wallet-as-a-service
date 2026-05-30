@@ -1,0 +1,6 @@
+{
+  "eventType": "TRANSACTION_FAILED",
+  "transactionId": "txn_001",
+  "reason": "INSUFFICIENT_FUNDS"
+}
+

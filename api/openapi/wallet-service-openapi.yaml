@@ -1,0 +1,23 @@
+openapi: 3.0.0
+
+info:
+  title: Wallet Service API
+  version: 1.0.0
+
+paths:
+
+  /api/v1/wallets:
+    post:
+      summary: Create Wallet
+
+      responses:
+        '201':
+          description: Wallet created successfully
+
+  /api/v1/transactions/fund:
+    post:
+      summary: Fund Wallet
+
+      responses:
+        '202':
+          description: Transaction accepted
